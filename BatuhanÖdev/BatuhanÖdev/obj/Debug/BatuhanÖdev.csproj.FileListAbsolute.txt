@@ -1,0 +1,20 @@
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.exe.config
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.exe
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.pdb
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csprojAssemblyReference.cache
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.Form1.resources
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.Properties.Resources.resources
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csproj.GenerateResource.cache
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csproj.CoreCompileInputs.cache
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.exe
+C:\Users\burhan\source\repos\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.pdb
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.exe.config
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.exe
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\bin\Debug\BatuhanÖdev.pdb
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csprojAssemblyReference.cache
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.Form1.resources
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.Properties.Resources.resources
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csproj.GenerateResource.cache
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.exe
+C:\Users\Batuhan Kolaç\Desktop\BatuhanÖdev\BatuhanÖdev\obj\Debug\BatuhanÖdev.pdb
